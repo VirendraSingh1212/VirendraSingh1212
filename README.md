@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Virendra Singh</h1>
 <h3 align="center">A passionate Software student from India</h3>
-<img align=“Right” alt=“Coding gif” width=“400” src=“1578791251071” >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=Profile%20views&color=0e75b6&style=flat" alt="virendrasingh1212" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@virendra2259" target="blank"><img src="https://img.shields.io/twitter/follow/@virendra2259?logo=twitter&style=for-the-badge" alt="@virendra2259" /></a> </p>
