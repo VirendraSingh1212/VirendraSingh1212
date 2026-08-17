@@ -1,82 +1,103 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0f172a&height=220&section=header&text=VIRENDRA%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20•%20IT%20Graduate%202026&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Top Banner Section: Bio & Interests -->
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <br>
+      <img src="https://capsule-render.vercel.app/api?type=avatar&text=VS&color=0d1117&stroke=ffffff" width="120px" />
+      <br>
+      <h3>Virendra Singh</h3>
+      <sub>Full-Stack Software Engineer</sub>
+      <br><br>
+    </td>
+    <td width="70%">
+      <p>I'm <b>Virendra Singh</b>, a <b>2026 Information Technology graduate</b> and Full-Stack Software Engineer focused on building reliable, scalable, and user-oriented web applications.</p>
+      <hr>
+      <b>Interests:</b> &nbsp;
+      <img src="https://img.shields.io/badge/🎮_Gaming-0d1117?style=flat" /> &nbsp;
+      <img src="https://img.shields.io/badge/🚀_Open_Source-0d1117?style=flat" /> &nbsp;
+      <img src="https://img.shields.io/badge/💻_System_Design-0d1117?style=flat" />
+    </td>
+  </tr>
+</table>
 
-<br>
+<!-- Experience / Background Grid -->
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💻 Full-Stack Development <sub><code>2022 - Present</code></sub></h4>
+      <ul>
+        <li>Designed & architected relational databases (PostgreSQL, MySQL).</li>
+        <li>Built performant REST APIs with Node.js and Express.js.</li>
+        <li>Developed responsive SPAs using React.js and modern UI standards.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🎓 Education & Certifications <sub><code>2022 - 2026</code></sub></h4>
+      <ul>
+        <li><b>B.Tech Information Technology</b> (Graduating 2026)</li>
+        <li>Data Structures & Algorithms (Java)</li>
+        <li>Object-Oriented Programming & System Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Contact & Profiles -->
-<p align="center">
-  <a href="https://linkedin.com/in/virendra-singh0066" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:singhvirendra0066@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/virendrasingh1212">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<!-- Tooling & Certifications Grid -->
+<table>
+  <tr>
+    <!-- Left Column: Tooling -->
+    <td width="45%">
+      <p><b>Languages ››</b> &nbsp;
+        <img src="https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk" />
+        <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript" />
+        <img src="https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=mysql" />
+      </p>
+      <p><b>Frontend ››</b> &nbsp;
+        <img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3" />
+      </p>
+      <p><b>Backend ››</b> &nbsp;
+        <img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql" />
+      </p>
+    </td>
+    <!-- Right Column: Focus Areas -->
+    <td width="55%">
+      <b>Core Competencies</b>
+      <hr>
+      <p><b>API Architecture</b> &nbsp; <code>REST APIs</code></p>
+      <p><b>Database Engineering</b> &nbsp; <code>Schema Design & Optimization</code></p>
+      <p><b>DevOps & Version Control</b> &nbsp; <code>Git / GitHub / Postman</code></p>
+    </td>
+  </tr>
+</table>
 
-</div>
-
----
-
-### **👋 About Me**
-
-I am a **Full-Stack Software Engineer** and **2026 Information Technology graduate** focused on building performant, scalable, and resilient web architectures.
-
-* **Core Focus:** Turning operational requirements into complete software systems — from normalized database design to API architecture and responsive frontend UIs.
-* **Engineering Philosophy:** Clean code, modular design patterns, strong OOP fundamentals, and testable codebase structures.
-
----
-
-### **🛠 Technical Matrix**
-
-| Category | Skillset & Core Stack |
-| :--- | :--- |
-| **Languages & Fundamentals** | `Java` • `JavaScript (ES6+)` • `SQL` • `OOP` • `DSA` |
-| **Frontend Engineering** | `React.js` • `HTML5` • `CSS3` • `RESTful Integrations` |
-| **Backend & Architecture** | `Node.js` • `Express.js` • `REST APIs` • `System Architecture` |
-| **Databases & Storage** | `PostgreSQL` • `MySQL` • `Database Schema Design` |
-| **Tooling & Workflows** | `Git` • `GitHub Workflows` • `Postman` • `Cloud Deployment` |
-
----
-
-### **⚡ Core Capabilities**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API_Design-RESTful_Architecture-0d1117?style=flat-square&logo=postman&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Database-PostgreSQL_&_MySQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Frontend-React.js_SPAs-0d1117?style=flat-square&logo=react&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend-Node_&_Express-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-### **📊 GitHub Analytics & Insights**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virendrasingh1212&theme=github_dark" width="100%" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virendrasingh1212&theme=github_dark" width="49%" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virendrasingh1212&theme=github_dark" width="49%" alt="Commits" />
-</p>
-
-<br>
-
-<!-- Traffic Analytics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
-</p>
+<!-- Footer Links & Contact -->
+<table>
+  <tr>
+    <td align="center">
+      <b>Links ››</b> &nbsp;
+      <a href="https://github.com/virendrasingh1212">
+        <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+      </a> &nbsp;
+      <a href="https://linkedin.com/in/virendra-singh0066">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Contact ››</b> &nbsp;
+      <img src="https://img.shields.io/badge/He%2FHim-0d1117?style=flat-square" /> &nbsp;
+      <a href="mailto:singhvirendra0066@gmail.com">
+        <img src="https://img.shields.io/badge/singhvirendra0066@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
