@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Header & Profile Card -->
-<table width="100%">
+<!-- Modern Minimalist Bento Grid Header -->
+<table>
   <tr>
     <td width="30%" align="center" valign="middle">
       <br>
-      <img src="https://capsule-render.vercel.app/api?type=avatar&text=VS&color=0d1117&stroke=38bdf8&strokeWidth=2" width="120px" />
+      <!-- Integrated Photo -->
+      <img src="https://avatars.githubusercontent.com/u/108392183" width="120px" style="border-radius: 50%; border: 3px solid #38bdf8;" />
       <br><br>
       <h3><b>Virendra Singh</b></h3>
       <code>Full-Stack Software Engineer</code>
@@ -25,7 +26,7 @@
 </table>
 
 <!-- Experience & Education Grid -->
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Software Engineering &nbsp; <code>2022 - Present</code></h4>
@@ -49,7 +50,7 @@
 </table>
 
 <!-- Tech Stack Matrix -->
-<table width="100%">
+<table>
   <tr>
     <td width="40%" valign="middle">
       <p><b>Languages ››</b><br>
@@ -71,20 +72,21 @@
     <td width="60%" valign="top">
       <h4>⚙️ Key Specializations</h4>
       <hr>
-      <p>🔹 <b>API Architecture:</b> Designing performant RESTful endpoints & JSON structures.</p>
-      <p>🔹 <b>Database Optimization:</b> Normalization, indexing, and query efficiency.</p>
-      <p>🔹 <b>Version Control:</b> Structured Git branching, PR reviews, and team workflows.</p>
+      <p>🔹 <b>API Architecture:</b> Designing performant RESTful endpoints.</p>
+      <p>🔹 <b>Database Optimization:</b> Normalization & indexing.</p>
+      <p>🔹 <b>Version Control:</b> Structured Git workflows.</p>
     </td>
   </tr>
 </table>
 
-<!-- Analytics Section -->
-<table width="100%">
+<!-- Reliable GitHub Statistics Section (Fixes the previous error) -->
+<table>
   <tr>
     <td align="center">
       <h4>📊 GitHub Overview</h4>
       <br>
       <p align="center">
+        <!-- New, reliable unified stats card -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virendrasingh1212&theme=github_dark" width="98%" alt="GitHub Profile Summary" />
       </p>
     </td>
@@ -92,7 +94,7 @@
 </table>
 
 <!-- Footer Contact & Links -->
-<table width="100%">
+<table>
   <tr>
     <td width="50%" align="center">
       <b>Links ››</b> &nbsp;
@@ -114,6 +116,7 @@
 
 <br>
 
+<!-- Traffic Analytics -->
 <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
 
 </div>
