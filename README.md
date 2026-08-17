@@ -1,29 +1,196 @@
-<h1 align="center">Hi , I'm Virendra Singh</h1>
-<h3 align="center">A passionate Software student from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=Profile%20views&color=0e75b6&style=flat" alt="virendrasingh1212" /> </p>
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif" width="450" align="right">
-<p align="left"> <a href="https://twitter.com/@virendra2259" target="blank"><img src="https://img.shields.io/twitter/follow/@virendra2259?logo=twitter&style=for-the-badge" alt="@virendra2259" /></a> </p>
+<h1 align="center">Hi, I'm Virendra Singh</h1>
 
-- 🌱 I’m currently learning **Advance Python**
+<h3 align="center">
+  Full-Stack Software Engineer | Java | React.js | Node.js | REST APIs
+</h3>
 
-- 👯 I’m looking to collaborate on **Web Develpoments**
-
-- 💬 Ask me about **Python, Web Dev**
-
-- 📫 How to reach me **singhvirendra0066@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@virendra2259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@virendra2259" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/virendra-singh0066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virendra-singh0066" height="30" width="40" /></a>
-<a href="https://instagram.com/singh_virendra12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_virendra12" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/virendrasingh1212">
+    <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/virendra-singh0066">
+    <img src="https://img.shields.io/badge/LinkedIn-Virendra%20Singh-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:singhvirendra0066@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virendrasingh1212&show_icons=true&locale=en&layout=compact" alt="virendrasingh1212" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virendrasingh1212&show_icons=true&locale=en" alt="virendrasingh1212" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virendrasingh1212&" alt="virendrasingh1212" /></p>
+I am a **2026 Information Technology graduate** focused on building scalable,
+maintainable and user-oriented web applications.
+
+My development experience spans both **frontend and backend engineering**, with
+hands-on experience designing React.js interfaces, developing Node.js/Express.js
+REST APIs, working with relational databases, and deploying decoupled full-stack
+applications.
+
+I also have a strong foundation in **Java, Object-Oriented Programming,
+Data Structures & Algorithms, SQL and software engineering fundamentals**.
+
+- Software Engineering Intern with hands-on production development experience
+- Full-stack development using **React.js, Node.js and Express.js**
+- Backend development with **RESTful APIs**
+- Database development using **PostgreSQL and MySQL**
+- Experience with **Git, GitHub, Vercel, Render and Neon**
+- Strong foundation in **Java, OOP, DSA and SQL**
+- Experience building and deploying complete web applications
+- Interested in **Full-Stack Software Engineering opportunities**
+
+---
+
+## Professional Experience
+
+### PWA Developer Intern
+**Samutkarsh Bharat Research Private Limited**
+
+- Developed and enhanced Progressive Web Application features using modern
+  web technologies.
+- Worked on frontend functionality, responsive interfaces and application
+  workflows.
+- Contributed to applications serving **10K+ daily users**.
+- Collaborated within a Git-based development workflow and followed structured
+  development practices.
+- Focused on improving usability, reliability and cross-device compatibility.
+
+---
+
+## Featured Project
+
+### PathToPro — Learning Management System
+
+A full-stack Learning Management System designed to provide accessible online
+education for university students.
+
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • REST APIs
+
+#### Key Features
+
+- Student and instructor account management
+- Course creation and enrollment
+- Multimedia lesson delivery
+- Student progress tracking
+- RESTful API architecture
+- Responsive user interface
+- AI-powered chatbot assistance
+- PostgreSQL database hosted on Neon
+- Independently deployed frontend and backend
+
+#### Deployment
+
+- **Frontend:** Vercel
+- **Backend:** Render
+- **Database:** Neon PostgreSQL
+
+The project demonstrates end-to-end ownership across **frontend development,
+backend API design, database integration and deployment**.
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+---
+
+## Engineering Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- REST API Development
+- Database Design
+- SQL
+- Relational Database Management
+- Error Handling
+- Unit Testing
+- Git & Version Control
+- Responsive Web Development
+- Cross-Browser Compatibility
+
+---
+
+## Problem Solving
+
+I regularly practice Data Structures & Algorithms with a focus on developing
+efficient and maintainable solutions.
+
+**Core areas:**
+
+`Arrays` `Strings` `Recursion` `Searching` `Sorting`
+`Linked Lists` `Stack` `Queue` `Hashing` `Trees` `Graphs`
+
+---
+
+## Certifications
+
+### TCS iON — Generative AI Essentials
+
+Foundation in Generative AI concepts, applications and emerging AI-assisted
+development workflows.
+
+---
+
+## Education
+
+### Bachelor of Technology — Information Technology
+**Chaudhary Charan Singh University**
+
+**2026 Graduate**
+
+---
+
+## What I Bring
+
+```text
+Frontend Development      → React.js, JavaScript, HTML, CSS
+Backend Development       → Node.js, Express.js, REST APIs
+Programming               → Java, JavaScript, Python
+Databases                 → PostgreSQL, MySQL
+Engineering Fundamentals  → DSA, OOP, SQL, API Design
+Development Workflow      → Git, GitHub, Testing, Deployment
