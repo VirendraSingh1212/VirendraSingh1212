@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner Image -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=220&section=header&text=Welcome%20to%20Virendra's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <br>
@@ -79,8 +79,8 @@ Experienced in turning requirements into complete software systems using **GitHu
 ### Virendra's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virendrasingh1212&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=virendrasingh1212&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=virendrasingh1212&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=virendrasingh1212&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
 </p>
 
 <br>
@@ -88,7 +88,7 @@ Experienced in turning requirements into complete software systems using **GitHu
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virendrasingh1212&theme=dark&hide_border=true" alt="Contribution Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=virendrasingh1212&theme=dark&hide_border=true" alt="Contribution Streak" width="100%" />
 </p>
 
 <br>
