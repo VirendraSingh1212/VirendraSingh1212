@@ -1,9 +1,26 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Welcome%20to%20Virendra's%20Github%20</>&fontSize=32&fontColor=38bdf8&animation=twinkle" width="100%" />
+<!-- Header Banner (Fixed using SVG with 100% uptime) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#grad)" rx="10" />
+  <path d="M0,160 Q300,120 600,170 T1200,140 L1200,220 L0,220 Z" fill="#1f2937" opacity="0.4" />
+  <path d="M0,180 Q400,140 800,190 T1200,160 L1200,220 L0,220 Z" fill="#374151" opacity="0.3" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold">
+    Welcome to Virendra's Github &lt;/&gt;
+  </text>
+  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16">
+    Full-Stack Software Engineer | B.Tech IT '26
+  </text>
+</svg>
 
-<br>
+<br><br>
 
 <!-- Social Links / Contact Badges -->
 <p align="center">
@@ -22,10 +39,9 @@
 
 <br>
 
-<!-- Technologies Section Header -->
+<!-- Technologies Section -->
 <h3>🎯 Technologies</h3>
 
-<!-- Tech Badges Grid -->
 <p align="center">
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -45,11 +61,11 @@
 
 <br>
 
-<!-- Statistics Section -->
+<!-- Statistics Section (Reliable Native GitHub Graph Embed) -->
 <h3>📈 Statistics</h3>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=virendrasingh1212&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/virendrasingh1212" width="100%" alt="Virendra's Github Chart" />
 </p>
 
 <br>
@@ -59,10 +75,10 @@
 
 <table border="0">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/108392183" width="220px" style="border-radius: 20px;" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/108392183" width="180px" style="border-radius: 20px;" />
     </td>
-    <td width="65%" valign="middle">
+    <td width="70%" valign="middle">
       <p>Hello! My name is <b>Virendra Singh</b>, and I am a <b>Software Engineering student</b> (graduating in 2026). I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming.</p>
       <p>Currently, I am honing my skills in <b>Java, JavaScript, React.js, Node.js, Express, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.</p>
     </td>
@@ -83,7 +99,7 @@
       <p>🛡️ <b>Main Focus:</b> Full-Stack Web Development & System Design 🛡️</p>
     </td>
     <td width="30%" align="right" valign="bottom">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="160px" alt="Blastoise" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="150px" alt="Blastoise" />
     </td>
   </tr>
 </table>
