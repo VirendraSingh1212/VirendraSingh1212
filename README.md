@@ -1,29 +1,22 @@
 <div align="center">
 
-<!-- Modern Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=VIRENDRA%20SINGH&fontSize=48&fontColor=ffffff&stroke=1e293b&strokeWidth=2&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=68" width="100%" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0f172a&height=220&section=header&text=VIRENDRA%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20•%20IT%20Graduate%202026&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<!-- Modern Status Pills -->
+<!-- Contact & Profiles -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_ROLES-000000?style=for-the-badge&logoColor=white&color=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DEGREE-IT_GRADUATE_2026-000000?style=for-the-badge&logoColor=white&color=0d1117" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/virendrasingh1212">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/virendra-singh0066">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/virendra-singh0066" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:singhvirendra0066@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/virendrasingh1212">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -31,43 +24,59 @@
 
 ---
 
-### **Executive Summary**
+### **👋 About Me**
 
-I am a **Full-Stack Software Engineer** specializing in architecting end-to-end web applications, robust REST APIs, and scalable database schemas. With a background in **Information Technology**, I bridge modern web frameworks with core computing fundamentals (Data Structures, Algorithms, and Object-Oriented Design).
+I am a **Full-Stack Software Engineer** and **2026 Information Technology graduate** focused on building performant, scalable, and resilient web architectures.
+
+* **Core Focus:** Turning operational requirements into complete software systems — from normalized database design to API architecture and responsive frontend UIs.
+* **Engineering Philosophy:** Clean code, modular design patterns, strong OOP fundamentals, and testable codebase structures.
 
 ---
 
-### **Technical Architecture**
+### **🛠 Technical Matrix**
 
-| Domain | Technologies & Tooling |
+| Category | Skillset & Core Stack |
 | :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), SQL |
-| **Frontend Engineering** | React.js, HTML5, CSS3, Modern UI/UX Architecture |
-| **Backend Engineering** | Node.js, Express.js, RESTful APIs, OOP |
-| **Databases** | PostgreSQL, MySQL |
-| **DevOps & Workflows** | Git, GitHub Actions, Cloud Deployment, Postman |
+| **Languages & Fundamentals** | `Java` • `JavaScript (ES6+)` • `SQL` • `OOP` • `DSA` |
+| **Frontend Engineering** | `React.js` • `HTML5` • `CSS3` • `RESTful Integrations` |
+| **Backend & Architecture** | `Node.js` • `Express.js` • `REST APIs` • `System Architecture` |
+| **Databases & Storage** | `PostgreSQL` • `MySQL` • `Database Schema Design` |
+| **Tooling & Workflows** | `Git` • `GitHub Workflows` • `Postman` • `Cloud Deployment` |
 
 ---
 
-### **Engineering Focus Areas**
+### **⚡ Core Capabilities**
 
-* **System Design & Performance:** Designing normalized databases and optimizing RESTful endpoints for multi-user web systems.
-* **Full-Stack Integration:** Connecting interactive frontend user experiences with performant, secure backend services.
-* **Code Reliability:** Applying clean code practices, modular design patterns, and collaborative Git workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/API_Design-RESTful_Architecture-0d1117?style=flat-square&logo=postman&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Database-PostgreSQL_&_MySQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Frontend-React.js_SPAs-0d1117?style=flat-square&logo=react&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend-Node_&_Express-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
 
 ---
 
 <div align="center">
 
-### **GitHub Profile Analytics**
+### **📊 GitHub Analytics & Insights**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virendrasingh1212&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virendrasingh1212&theme=github_dark&hide_border=true&layout=compact" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virendrasingh1212&theme=github_dark" width="100%" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virendrasingh1212&theme=github_dark" width="49%" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virendrasingh1212&theme=github_dark" width="49%" alt="Commits" />
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
+<!-- Traffic Analytics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=virendrasingh1212&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
